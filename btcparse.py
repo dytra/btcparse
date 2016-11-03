@@ -11,7 +11,7 @@ def info(str):
 	print("{}[-]{}{}".format(BLUE,RESET," " + str))
 
 def success(str):
-	print("{}[-]{}{}".format(GREEN,RESET," " + str))
+	print("{}[+]{}{}".format(GREEN,RESET," " + str))
 
 
 info("Parsing information from server...")
