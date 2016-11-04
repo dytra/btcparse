@@ -9,4 +9,4 @@ btcparse gets information of all btc rates currencies from server and returns it
 ./btcparse.py
 ```
 
-![btcparse syntax](http://image.prntscr.com/image/ebafaf0104224ccfa4709669f4b59d42.png)
+![btcparse syntax](http://image.prntscr.com/image/649093d4976448f6a32bb38984061f4f.png)
